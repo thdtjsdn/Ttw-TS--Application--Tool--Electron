@@ -1,0 +1,35 @@
+########## FILES ##########
+
+*.js
+*.json
+*.lnk
+*.log
+*.url
+*.ts
+*.txt
+#*.zip
+
+########## FOLDERS ##########
+
+#***/.backup/***
+***/.dist/*
+***/.log/*
+***/.security/*
+***/.url/*
+
+
+***/managed_node_modules/***
+***/node_modules/***
+
+########## ROOT FILES ##########
+
+.CMD.exe
+.conf--framework--value.json
+
+########## APPLICATIONS ##########
+
+***/app_macro_server/router/macro/***
+
+***/app_stock_service/router/*.ts
+
+***/apps_resource_common/***
